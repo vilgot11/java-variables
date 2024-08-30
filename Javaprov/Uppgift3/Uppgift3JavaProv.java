@@ -8,3 +8,6 @@ public class Uppgift3JavaProv {
     }
     }
 }
+// glömde plus efter första plus byt fem till fyra för den skulle bara räckna från 0 till 4
+// extra semikoland 
+// man behöver inte annat mellan pareteserna en i
